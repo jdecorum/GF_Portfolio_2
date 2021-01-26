@@ -767,6 +767,14 @@ footer span a:hover {
         font-size: 20px;
     }
 
+    .about .about-content .left img {
+    height: 300px;
+    width: 235px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    }
+
     .services .serv-content .card {
         width: 100%;
     }
@@ -779,6 +787,14 @@ footer span a:hover {
 
     .home .home-content .text-3 {
         font-size: 27px;
+    }
+
+    .about .about-content .left img {
+    height: 175px;
+    width: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
     }
 
     .about .about-content .right .text,
