@@ -708,7 +708,7 @@ footer span a:hover {
     }
 
     .home .home-content .text-2 {
-        font-size: 70px;
+        font-size: 65px;
     }
 
     .home .home-content .text-3 {
@@ -756,7 +756,7 @@ footer span a:hover {
     }
 
     .home .home-content .text-2 {
-        font-size: 60px;
+        font-size: 55px;
     }
 
     .home .home-content .text-3 {
@@ -782,7 +782,7 @@ footer span a:hover {
 
 @media (max-width: 500px) {
     .home .home-content .text-2 {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .home .home-content .text-3 {
